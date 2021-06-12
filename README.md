@@ -13,7 +13,7 @@ Linux:
 ```bash
 export DISCORD_TOKEN="your token here"
 ```
-(if you want this to be set persistently, rather than manually, add it to `~/.bashrc`
+(if you want this to be set persistently, rather than manually, add it to `~/.bashrc`)
 
 Windows:
 ```batch
